@@ -1,4 +1,4 @@
-// bir sayi girilmesini ve girilen sayiyi ekrana yazdıran program
+// kullanicidan bir sayi girilmesini isteyen ve girilen sayiyi ekrana yazdÄ±ran program
 #include<stdio.h>
 int main(){
 	int sayi;
