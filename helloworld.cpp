@@ -1,5 +1,6 @@
-// "C programlama dunyasýna hosgeldiniz." yazdýran program
+// "C programlama dunyasina hosgeldiniz." yazdiran program
 #include<stdio.h>
 int main(){
-	printf("C programlama dunyasýna hosgeldiniz.");
+	printf("C programlama dunyasina hosgeldiniz.");
+	return 0;
 }
