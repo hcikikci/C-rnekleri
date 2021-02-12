@@ -8,6 +8,6 @@ int main(){
 		scanf("%f", &kenar[i]);
 	}
 	
-	printf("Dikdörtgenin alani : %8.3f \nKarenin cevresi : %8.3f",kenar[0]*kenar[1], (kenar[0] + kenar[1])*2.0);
+	printf("Dikdortgenin alani : %8.3f \nDikdortgenin cevresi : %8.3f",kenar[0]*kenar[1], (kenar[0] + kenar[1])*2.0);
 	return 0;
 }
